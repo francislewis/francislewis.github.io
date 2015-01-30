@@ -1,0 +1,142 @@
+body {
+  background-color: white;
+}
+.wrapper {
+  margin: 0px;
+  padding: 0px;
+}
+#header {
+  min-height: 50px;
+  max-height: 300px;
+  background: url('http://i.imgur.com/ZUfSXNF.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#header h1 {
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 400px;
+}
+#nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 9995;
+  text-align: center;
+  color: white;
+  background-color: rgba(50,50,50,.75);
+}
+#nav a {
+  color: white;
+}
+#nav ul { 
+  list-style-type: none;
+  text-align: center;
+  height: 100%;
+  margin: 0px;
+}
+#nav ul li { 
+  display: inline-block;
+  padding: 10px 20px;
+  height: 100%;
+  font-weight: bold;
+}
+#nav ul li.toggle {
+  display: none;
+  text-align: right;
+}
+#nav ul li:hover {
+  background-color: rgba(0,0,0,.5);
+}
+section {
+  margin: 0;
+  padding: 40px 0;
+}
+section h2 {
+  text-align: center;
+}
+section h3 a {
+  color: #222;
+}
+section h3 a:hover {
+  color: #444;
+}
+section .row i {
+  font-size: 2em;
+}
+
+#footer {
+  padding: 20px;
+  float: right;
+  width: 50%;
+}
+ul.center {
+  display: block;
+  margin: auto;
+}
+
+@media only screen and (max-width: 40em) {
+  #nav ul li {
+    display: none;
+  }
+  #nav ul li.toggle {
+    display: block;
+  }
+}
+
+#panel , #flip
+
+{
+padding:5px;
+text-align:center;
+background-color:#EFEFEF;
+border:solid 1px #c3c3c3;
+}
+
+#panel
+
+{
+padding:50px;
+display:none;
+}
+
+#flip {
+  height: 70px;
+  font-size: 35px;
+}
+.contact {
+  width: 400px;
+  margin: 0 auto;
+  padding: 2em;
+  text-align: center;
+  background-color: #EFEFEE;
+  box-shadow: 0 1px 2px rgba(#000, .3);
+ 
+}
+
+.contact-info {
+  display: inline-block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+  
+  > li {
+    > span {
+      display: inline-block;
+      font-weight: bold;
+      min-width: 90px;
+    }
+  }
+}
+
+#download {
+  margin-left: 35%;
+}
