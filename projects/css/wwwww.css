@@ -1,5 +1,5 @@
-body, html { height: 100%; background-color: #95A5A6; }
-
+html { height: 100%; }
+body { background-color: #95A5A6; }
 .flat-stack {
   list-style-type: none;
   width: 170px;
