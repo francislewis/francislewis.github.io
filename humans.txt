@@ -24,3 +24,4 @@
   JQuery
   Google Fonts
   bestcssbuttongenerator.com
+  xmlsitemapgenerator.org
