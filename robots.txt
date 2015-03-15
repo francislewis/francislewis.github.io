@@ -12,3 +12,5 @@ Disallow: /
 # too many repeated hits, too quick
 User-agent: Baidu
 Disallow: /
+
+Sitemap: http://francislewis.github.io/sitemap.xml
