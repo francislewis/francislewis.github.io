@@ -13,7 +13,7 @@
 /* MAIN */
   Develop & Main Design: Francis Lewis
   Github: francislewis
-  Site: http://francislewis.github.io
+  Site: http://www.francislewis.me
 
 /* SITE */
   Doctype: HTML5
