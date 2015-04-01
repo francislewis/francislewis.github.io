@@ -25,3 +25,4 @@
   Google Fonts
   bestcssbuttongenerator.com
   xmlsitemapgenerator.org
+  Github user @snaptortoise for konami-js
