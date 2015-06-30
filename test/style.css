@@ -1,6 +1,7 @@
 .menu {
     display: inline;
     list-style-type: none;  
+    overflow: hidden;
     margin: 0;
     padding: 0;
 }
