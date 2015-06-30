@@ -25,7 +25,8 @@ body {
 }
 
 .header {
-    text-align: center;
+    text-align: right;
+    margin-right: 30px;
 }
 
 .text-content {
