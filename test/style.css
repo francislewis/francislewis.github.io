@@ -10,6 +10,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #444444;
 }
 .menu-content {
     display: inline-block;
