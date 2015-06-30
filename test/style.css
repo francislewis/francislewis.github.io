@@ -1,5 +1,5 @@
 .menu {
-    float: left;
+    display: inline-block;
     list-style-type: none;  
     overflow: hidden;
     margin: 0;
