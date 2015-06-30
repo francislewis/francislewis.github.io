@@ -25,8 +25,8 @@ body {
 }
 
 .header {
-    text-align: right;
-    margin-right: 30px;
+    text-align: left;
+    margin-left: 30px;
 }
 
 .text-content {
