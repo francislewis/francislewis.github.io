@@ -10,13 +10,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    width: 150px;
 }
 .menu-content {
     display: inline-block;
     border-style: solid;
     border-width: 2px;
     background-color: #3B3B3B;
+    width: 20px;
 }
 
 .header {
