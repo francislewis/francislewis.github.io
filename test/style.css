@@ -1,9 +1,11 @@
 .menu {
-    display: inline-block;
     list-style-type: none;  
     overflow: hidden;
     margin: 0;
     padding: 0;
+}
+.menu-content {
+    display: inline-block;
 }
 
 .header {
