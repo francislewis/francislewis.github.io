@@ -18,6 +18,8 @@ body {
     border-width: 2px;
     width: 90px;
     height: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 .header {
