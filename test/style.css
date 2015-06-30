@@ -10,9 +10,12 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #FFF;
-    top: 0px;
 }
+
+.top {
+    background-color: #FFF;
+}
+
 .menu-content {
     display: inline-block;
     border-left-style: solid;
