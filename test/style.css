@@ -1,5 +1,5 @@
 .menu {
-    text-align: center;
+    display: inline;
     list-style-type: none;  
     margin: 0;
     padding: 0;
