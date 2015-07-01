@@ -12,12 +12,16 @@ body {
     text-align: center;
 }
 
-.menu-content, .menu-content:visited {
+.menu-content {
     display: inline-block;
     width: 90px;
     height: 20px;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+.menu-content:visited {
+    text-decoration: none;
 }
 
 .header {
