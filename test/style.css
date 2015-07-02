@@ -6,6 +6,7 @@ body {
 
 .top {
     background-color: #FFF;    
+    top: 0;
 }
 
 .menu {
