@@ -6,7 +6,7 @@ body {
 
 .top {
     background-color: #FFF;    
-    top: 0;
+    top: -1;
     position: static;
 }
 
