@@ -14,6 +14,7 @@ body {
     border-bottom-color: #000;
     border-bottom-width: 2px;
     height: 30px;
+    font-weight: bold;
 }
 
 .menu-content {
