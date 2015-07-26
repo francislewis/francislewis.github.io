@@ -10,6 +10,9 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+    border-bottom-width: 2px;
 }
 
 .menu-content {
