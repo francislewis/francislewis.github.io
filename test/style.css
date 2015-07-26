@@ -13,6 +13,7 @@ body {
     border-bottom-style: solid;
     border-bottom-color: #000;
     border-bottom-width: 2px;
+    height: 30px;
 }
 
 .menu-content {
@@ -51,4 +52,8 @@ hr {
 
 h1 {
     font-size: 60px;
+}
+
+h2 {
+        
 }
