@@ -19,7 +19,11 @@ header {
   height: 100%;
   margin-bottom: -20px;
   color: white;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), #000000), url(http://www.francislewis.me/assets/background-main.jpg) repeat center center fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), #000000), url(/assets/background-main.jpg) no-repeat center center fixed;
+ -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 }
 
 h1 {
