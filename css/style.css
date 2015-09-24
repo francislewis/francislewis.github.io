@@ -195,7 +195,7 @@ p {
   font-weight: 300;
   margin: 0 auto;
   text-align: justify;
-  word-break: break-all;
+  word-break: keep-all;
   hyphenation: auto;
 }
 
