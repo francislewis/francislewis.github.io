@@ -13,4 +13,3 @@ Disallow: /
 User-agent: Baidu
 Disallow: /
 
-Sitemap: http://francislewis.github.io/sitemap.xml
